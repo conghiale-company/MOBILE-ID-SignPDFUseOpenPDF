@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SignPDFUseOpenPDF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SignPDFUseOpenPDF_jar</output-path>
+    <root id="archive" name="SignPDFUseOpenPDF.jar">
+      <element id="module-output" name="SignPDFUseOpenPDF" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/openpdf-1.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lib.rssp.openpdf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bcpkix-jdk15on-150.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bcprov-jdk15on-150.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
